@@ -8,4 +8,5 @@ This a repository which contains some basic codes for training the Fashion MNIST
 - adaptive learning rate procedure (e.g. exponential decay, decay stepsize with power elements)
 - loss and accuracy plots
 - learning rate decay plot
+- early stopping procedure
 
