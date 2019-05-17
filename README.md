@@ -10,5 +10,3 @@ This a repository which contains some basic codes for training the Fashion MNIST
 - learning rate decay plot
 - early stopping procedure
 
-
-# Copyright © 2019 Cristian Daniel Alecsa
